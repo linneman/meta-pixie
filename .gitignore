@@ -1,0 +1,20 @@
+# .gitignore for meta-pixie
+
+.project
+.cproject
+*.o
+.DS_Store
+*.d
+*.exe
+*.bak
+*.tmp
+*.swp
+*~
+cscope.*
+tags
+GPATH
+GRTAGS
+GTAGS
+*#
+
+configure.make
